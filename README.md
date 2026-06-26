@@ -1,4 +1,4 @@
-# Advanced Task Management Engine - (UI Architecture Variation)
+# Advanced Task Management Engine
 
 ## 📌 Project Overview
 This repository represents the **second architecture/UI layout variation** of the Productivity Task Management Application. Developed as a part of a design testing workflow, this application focuses on exploring alternative user experience (UX) layouts, navigation patterns, and structural state handling for task distribution.
